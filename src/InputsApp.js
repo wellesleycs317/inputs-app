@@ -19,7 +19,7 @@ class InputsApp extends React.Component {
   render() {
     return (  // uses ErrorBoundary for more debuggable errors 
       <div>
-        <h1>Inputs App</h1>
+        <h1>Malika Inputs App</h1>
           <ErrorBoundary>
             <Paragraphs />
           </ErrorBoundary>
